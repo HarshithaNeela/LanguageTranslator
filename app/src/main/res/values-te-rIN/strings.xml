@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageTranslator</string>
+    <string name="title">okati select cheyu</string>
+    <string name="cat">PELLI</string>
+    <string name="dog">KUKKA</string>
+    <string name="monkey">KOTHI</string>
+    <string name="horse">GURAM</string>
+    <string name="toastmessage">meru enchukundhi chesindhi</string>
+</resources>

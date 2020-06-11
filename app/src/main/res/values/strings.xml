@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LanguageTranslator</string>
+    <string name="title">pick a animal from list</string>
+    <string name="cat">CAT</string>
+    <string name="dog">DOG</string>
+    <string name="monkey">MONKEY</string>
+    <string name="horse">HORSE</string>
+<string-array name="animals">
+    <item>@string/cat</item>
+    <item>@string/dog</item>
+    <item>@string/monkey</item>
+    <item>@string/horse</item>
+</string-array>
+    <string name="toastmessage">youselected</string>
+
+</resources>
